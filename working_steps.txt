@@ -1,0 +1,7 @@
+# login to git account
+
+git config --user.email 'ENTER_YOUR_EMAIL_ACCOUNT'
+
+# add file into git
+
+git add requirement.txt
