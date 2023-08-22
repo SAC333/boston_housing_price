@@ -1,7 +1,20 @@
 # login to git account
 
-git config --user.email 'ENTER_YOUR_EMAIL_ACCOUNT'
+git config --global user.email 'ENTER_YOUR_EMAIL_ACCOUNT'
+git config --global user.name "Enter your name"
+
+
 
 # add file into git
 
 git add requirement.txt
+
+# add all files 
+git add . 
+
+
+# git commit -m "comment for commit"
+# git push origin main
+
+
+
